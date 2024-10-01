@@ -83,5 +83,5 @@ sudo systemctl status apache2
 ```
 If the service is not running, start the service. 
 
-If the security group is not allowing inbound http traffic, go to the inbound rules in the security group and allow http traffic as shown in the picture. 
+If the security group is not allowing inbound http traffic, go to the inbound rules in the security group and allow http traffic.
 
