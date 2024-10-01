@@ -50,7 +50,7 @@ The command sudo systemctl start apache2 starts the Apache service in Linux
 To obtain the source code, use the below git command to clone the git repository. 
 
 ```
-git clone https://github.com/praveendhas-gv/AWS-httpd-Sitehosting.git
+git clone https://github.com/Arthi-24/AWSDemo.git
 ```
 
 This will download all the contents of the repository AWS-httpd-Sitehosting and store it in the EC2 instance in the present working directory.
